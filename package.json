@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-xde",
+  "name": "@sparing-software/eslint-config",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
